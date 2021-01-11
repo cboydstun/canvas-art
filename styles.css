@@ -15,3 +15,11 @@ body {
 canvas {
   border: 2px solid blue;
 }
+
+.toolbox {
+  background-color: blue;
+  border: 1px solid steelblue;
+  display: flex;
+  width: 600px;
+  padding: 1rem;
+}
